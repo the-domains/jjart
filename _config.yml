@@ -1,0 +1,28 @@
+name: JJArt
+favicon: null
+layout_spectrum: 0.6006138832308352
+typography_spectrum: 0.8805155465379357
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6978719956241548
+  lightness: 0.2543982604984194
+  saturation: 0.7458593968767673
+  rhythmicContrast: 0.9808395523577929
+purpose: []
