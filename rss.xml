@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JJ Art - Contemporary Artist Jeanette James-Monk]]></title>
+        <description><![CDATA[JJ Art - Contemporary Artist Jeanette James-Monk]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Dec 2015 09:34:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://img0.etsystatic.com/124/1/8443745/il_570xN.866800926_t3gj.jpg">]]></description>
+            <link>undefined5673b88c-602f-494f-849c-9e0da3735d23/index.html</link>
+            <guid isPermaLink="false">5673b88c-602f-494f-849c-9e0da3735d23</guid>
+            <pubDate>Sun, 13 Dec 2015 09:34:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
